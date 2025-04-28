@@ -1,3 +1,5 @@
+--Create Database
+CREATE DATABASE sql_p1;
 -- Table Create
 DROP TABLE IF EXIT retail_sales;
 CREATE TABLE retail_sales(
